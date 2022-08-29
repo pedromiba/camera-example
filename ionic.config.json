@@ -1,0 +1,7 @@
+{
+  "name": "camera-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
